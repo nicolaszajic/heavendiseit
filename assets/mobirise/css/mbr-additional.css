@@ -1282,9 +1282,9 @@ a {
 
 .cid-s5yZTTo2DU .iconfont-wrapper {
     position: relative;
-    box-shadow: 0px 0px 0px 2px #333333 inset;
+    box-shadow: 0px 0px 0px 2px #6a66bb inset;
     border-radius: 50%;
-    color: #333333 !important;
+    color: #00669c !important;
     font-size: 1.2rem;
     width: 45px;
     height: 45px;
@@ -1296,17 +1296,17 @@ a {
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover {
-    box-shadow: 0px 0px 0px 2px #0468a4 inset;
+    box-shadow: 0px 0px 0px 2px #00669c inset;
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover .icon-bg {
     top: 0px;
     right: 0px;
-    background: #0468a4;
+    background: #00669c;
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover .mbr-iconfont {
-    color: white;
+    color: #FFF;
 }
 
 .cid-s5yZTTo2DU .mbr-iconfont {
@@ -1324,7 +1324,7 @@ a {
     z-index: -1;
     height: 100%;
     border-radius: 50%;
-    background: #c77081;
+    background: #e8e8e8;
 }
 
 .cid-s5yZTTo2DU .navbar-nav {
