@@ -1083,7 +1083,9 @@ a {
 .cid-s5yZTTo2DU .navbar-short {
     background-image: url("../../images/navback.jpg")!important;
     background: url("../../images/navback.jpg")!important;
-    background-size: cover!important;
+    background-size: inherit!important;
+    width: 100%!important;
+    background-position: center!important;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
@@ -3374,4 +3376,8 @@ a {
 .services-row {
     margin: 3px;
     padding-top: 15px;
+}
+
+#image-svg {
+    height: 84%;
 }
