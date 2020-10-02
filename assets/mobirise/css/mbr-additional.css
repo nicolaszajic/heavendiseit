@@ -181,9 +181,9 @@ body {
 .btn-secondary:focus,
 .btn-secondary.focus,
 .btn-secondary.active {
-    color: #10355a !important;
+    color: #ffe7ed !important;
     background-color: transparent !important;
-    border-color: #10355a !important;
+    border-color: #ffe7ed !important;
     outline: none!important;
 }
 
@@ -1081,8 +1081,8 @@ a {
 }
 
 .cid-s5yZTTo2DU .navbar-short {
-    background-image: url("../../images/navback.jpg")!important;
-    background: url("../../images/navback.jpg")!important;
+    background-image: url("../../images/navback.png")!important;
+    background: url("../../images/navback.png")!important;
     background-size: inherit!important;
     width: 100%!important;
     background-position: center!important;
@@ -1282,9 +1282,9 @@ a {
 
 .cid-s5yZTTo2DU .iconfont-wrapper {
     position: relative;
-    box-shadow: 0px 0px 0px 2px #000000 inset;
+    box-shadow: 0px 0px 0px 2px #333333 inset;
     border-radius: 50%;
-    color: #000000 !important;
+    color: #333333 !important;
     font-size: 1.2rem;
     width: 45px;
     height: 45px;
@@ -1296,12 +1296,13 @@ a {
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover {
-    box-shadow: 0px 0px 0px 2px #6592e6 inset;
+    box-shadow: 0px 0px 0px 2px #0468a4 inset;
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover .icon-bg {
     top: 0px;
     right: 0px;
+    background: #0468a4;
 }
 
 .cid-s5yZTTo2DU .iconfont-wrapper:hover .mbr-iconfont {
@@ -1323,7 +1324,7 @@ a {
     z-index: -1;
     height: 100%;
     border-radius: 50%;
-    background: #6592e6;
+    background: #c77081;
 }
 
 .cid-s5yZTTo2DU .navbar-nav {
@@ -1688,7 +1689,7 @@ a {
 .cid-s5z0evULgQ {
     padding-top: 5rem;
     padding-bottom: 2rem;
-    background-color: #ffe3b3;
+    background-color: #695356;
 }
 
 .cid-s5z0evULgQ .card {
